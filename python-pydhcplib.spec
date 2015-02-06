@@ -4,7 +4,7 @@
 Summary:    A python DHCP lib 
 Name:		python-pydhcplib
 Version:	0.6.2
-Release:	2
+Release:	3
 Source0:	http://pydhcplib.tuxfamily.org/download/pydhcplib-%{version}.tar.gz
 License:	GPL
 Group:		Development/Python

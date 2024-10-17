@@ -8,7 +8,7 @@ Release:	3
 Source0:	http://pydhcplib.tuxfamily.org/download/pydhcplib-%{version}.tar.gz
 License:	GPL
 Group:		Development/Python
-Url:		http://pydhcplib.tuxfamily.org
+Url:		https://pydhcplib.tuxfamily.org
 BuildRequires: python-devel
 Requires:	python >= 2.5
 BuildArch: noarch
